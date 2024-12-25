@@ -1,0 +1,9 @@
+.editableBg{
+    background: transparent;
+}
+.todoText{
+    /* float: left; */
+    text-align: left;
+    padding-left: 12rem;
+    
+}
